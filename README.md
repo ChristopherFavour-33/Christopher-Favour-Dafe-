@@ -70,8 +70,8 @@ A growing collection of practice projects focused on data cleaning, visualizatio
 
 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn link here
-- 📧 Email: Add your professional email here
+- 💼 LinkedIn: in/favour-christopher-8692963a5
+- 📧 Email: christopherfave33@gmail.com
 - 🌍 Open to collaborations, internships, and remote opportunities in Data Analytics
 
 ---
