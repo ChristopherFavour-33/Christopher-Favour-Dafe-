@@ -62,15 +62,15 @@ A growing collection of practice projects focused on data cleaning, visualizatio
 
 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ChristopherFavour-33&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherFavour-33&layout=compact&theme=tokyonight)
 
 ---
 
 📫 Connect With Me
 
-- 💼 LinkedIn: in/favour-christopher-8692963a5
+- 💼 LinkedIn: https://www.linkedin.com/in/favour-christopher-8692963a5
 - 📧 Email: christopherfave33@gmail.com
 - 🌍 Open to collaborations, internships, and remote opportunities in Data Analytics
 
